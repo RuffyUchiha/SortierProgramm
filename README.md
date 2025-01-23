@@ -55,6 +55,3 @@ Ein Beispiel für die Verwendung der Methoden könnte folgendermaßen aussehen:
 Um dieses Programm zu verwenden, stelle sicher, dass du Lazarus installiert hast.  
 Kopiere den Code in eine neue Lazarus-Projekteinheit und füge sie deinem Projekt hinzu.
 
---- 
-
-Das Design wurde so angepasst, dass es übersichtlicher ist. Wenn noch etwas verbessert werden soll, sag Bescheid! 😊
