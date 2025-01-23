@@ -1,6 +1,3 @@
-Hier ist die überarbeitete Version mit größeren und fetten Überschriften:
-
----
 
 **Sortierprogramm (Pascal Lazarus)**  
 Dieses Pascal Lazarus Programm implementiert verschiedene Sortieralgorithmen und bietet eine einfache Benutzeroberfläche zur Anzeige der sortierten Arrays in einer ListBox.
