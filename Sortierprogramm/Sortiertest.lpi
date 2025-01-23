@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectOptions>
+    <Version Value="12"/>
+    <PathDelim Value="\"/>
+    <General>
+      <Flags>
+        <CompatibilityMode Value="True"/>
+      </Flags>
+      <UseXPManifest Value="True"/>
+    </General>
+    <VersionInfo>
+      <Language Value=""/>
+      <CharSet Value=""/>
+    </VersionInfo>
+    <BuildModes Count="1">
+      <Item1 Name="default" Default="True"/>
+    </BuildModes>
+    <PublishOptions>
+      <Version Value="2"/>
+    </PublishOptions>
+    <RunParams>
+      <local>
+        <LaunchingApplication PathPlusParams="/usr/X11R6/bin/xterm -T &apos;Lazarus Run Output&apos; -e $(LazarusDir)/tools/runwait.sh $(TargetCmdLine)"/>
+      </local>
+      <FormatVersion Value="2"/>
+      <Modes Count="1">
+        <Mode0 Name="default">
+          <local>
+            <LaunchingApplication PathPlusParams="/usr/X11R6/bin/xterm -T &apos;Lazarus Run Output&apos; -e $(LazarusDir)/tools/runwait.sh $(TargetCmdLine)"/>
+          </local>
+        </Mode0>
+      </Modes>
+    </RunParams>
+    <RequiredPackages Count="1">
+      <Item1>
+        <PackageName Value="LCL"/>
+      </Item1>
+    </RequiredPackages>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="Sortiertest.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="20"/>
+        <UsageCount Value="31"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="uMain.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="78"/>
+        <CursorPos X="12" Y="99"/>
+        <UsageCount Value="31"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="uTSort.pas"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="109"/>
+        <CursorPos X="17" Y="124"/>
+        <UsageCount Value="14"/>
+        <Loaded Value="True"/>
+      </Unit2>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="uTSort.pas"/>
+        <Caret Line="152" TopLine="127"/>
+      </Position1>
+      <Position2>
+        <Filename Value="uTSort.pas"/>
+        <Caret Line="201" Column="26" TopLine="191"/>
+      </Position2>
+      <Position3>
+        <Filename Value="uMain.pas"/>
+        <Caret Line="90" TopLine="62"/>
+      </Position3>
+      <Position4>
+        <Filename Value="uTSort.pas"/>
+        <Caret Line="67" Column="3" TopLine="40"/>
+      </Position4>
+      <Position5>
+        <Filename Value="uTSort.pas"/>
+        <Caret Line="105" Column="38" TopLine="85"/>
+      </Position5>
+      <Position6>
+        <Filename Value="uMain.pas"/>
+        <Caret Line="69" TopLine="62"/>
+      </Position6>
+      <Position7>
+        <Filename Value="uTSort.pas"/>
+        <Caret Line="32" Column="31"/>
+      </Position7>
+      <Position8>
+        <Filename Value="uMain.pas"/>
+        <Caret Line="95" Column="51" TopLine="65"/>
+      </Position8>
+      <Position9>
+        <Filename Value="uTSort.pas"/>
+        <Caret Line="65" Column="29" TopLine="48"/>
+      </Position9>
+      <Position10>
+        <Filename Value="uTSort.pas"/>
+        <Caret Line="70" Column="18" TopLine="55"/>
+      </Position10>
+      <Position11>
+        <Filename Value="uTSort.pas"/>
+        <Caret Line="77" Column="16" TopLine="57"/>
+      </Position11>
+      <Position12>
+        <Filename Value="uTSort.pas"/>
+        <Caret Line="94" Column="4" TopLine="71"/>
+      </Position12>
+      <Position13>
+        <Filename Value="uTSort.pas"/>
+        <Caret Line="93" TopLine="76"/>
+      </Position13>
+      <Position14>
+        <Filename Value="uTSort.pas"/>
+        <Caret Line="59" Column="4" TopLine="42"/>
+      </Position14>
+      <Position15>
+        <Filename Value="uTSort.pas"/>
+        <Caret Line="37" Column="68" TopLine="12"/>
+      </Position15>
+      <Position16>
+        <Filename Value="uTSort.pas"/>
+        <Caret Line="119" Column="41" TopLine="102"/>
+      </Position16>
+      <Position17>
+        <Filename Value="uTSort.pas"/>
+        <Caret Line="37" Column="32" TopLine="31"/>
+      </Position17>
+      <Position18>
+        <Filename Value="uTSort.pas"/>
+        <Caret Line="119" Column="34" TopLine="99"/>
+      </Position18>
+      <Position19>
+        <Filename Value="uMain.pas"/>
+        <Caret Line="92" Column="59" TopLine="75"/>
+      </Position19>
+      <Position20>
+        <Filename Value="uMain.pas"/>
+        <Caret Line="81" Column="3" TopLine="75"/>
+      </Position20>
+      <Position21>
+        <Filename Value="uMain.pas"/>
+        <Caret Line="94" Column="39" TopLine="76"/>
+      </Position21>
+      <Position22>
+        <Filename Value="uMain.pas"/>
+        <Caret Line="83" Column="29" TopLine="66"/>
+      </Position22>
+      <Position23>
+        <Filename Value="uMain.pas"/>
+        <Caret Line="94" Column="6" TopLine="66"/>
+      </Position23>
+      <Position24>
+        <Filename Value="uMain.pas"/>
+        <Caret Line="81" Column="7" TopLine="66"/>
+      </Position24>
+      <Position25>
+        <Filename Value="uTSort.pas"/>
+        <Caret Line="119" Column="35" TopLine="102"/>
+      </Position25>
+      <Position26>
+        <Filename Value="uMain.pas"/>
+        <Caret Line="81" TopLine="71"/>
+      </Position26>
+      <Position27>
+        <Filename Value="uMain.pas"/>
+        <Caret Line="87" Column="45" TopLine="78"/>
+      </Position27>
+      <Position28>
+        <Filename Value="uMain.pas"/>
+        <Caret Line="95" Column="46" TopLine="78"/>
+      </Position28>
+      <Position29>
+        <Filename Value="uTSort.pas"/>
+        <Caret Line="175" Column="25" TopLine="108"/>
+      </Position29>
+      <Position30>
+        <Filename Value="uMain.pas"/>
+        <Caret Line="95" Column="32" TopLine="78"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectOptions>
+  <CompilerOptions>
+    <Version Value="11"/>
+    <PathDelim Value="\"/>
+    <Target>
+      <Filename Value="c:\Temp\Sortiertest"/>
+    </Target>
+    <SearchPaths>
+      <IncludeFiles Value="$(ProjOutDir)"/>
+    </SearchPaths>
+    <Parsing>
+      <SyntaxOptions>
+        <UseAnsiStrings Value="False"/>
+      </SyntaxOptions>
+    </Parsing>
+    <CodeGeneration>
+      <SmartLinkUnit Value="True"/>
+    </CodeGeneration>
+    <Linking>
+      <Debugging>
+        <GenerateDebugInfo Value="False"/>
+        <UseLineInfoUnit Value="False"/>
+        <StripSymbols Value="True"/>
+      </Debugging>
+      <LinkSmart Value="True"/>
+      <Options>
+        <Win32>
+          <GraphicApplication Value="True"/>
+        </Win32>
+      </Options>
+    </Linking>
+  </CompilerOptions>
+  <Debugging>
+    <Exceptions Count="3">
+      <Item1>
+        <Name Value="EAbort"/>
+      </Item1>
+      <Item2>
+        <Name Value="ECodetoolError"/>
+      </Item2>
+      <Item3>
+        <Name Value="EFOpenError"/>
+      </Item3>
+    </Exceptions>
+  </Debugging>
+</CONFIG>
